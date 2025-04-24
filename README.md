@@ -1,7 +1,4 @@
 # python-ci-demo
-
-# 🐍 python-ci-demo
-
 Este é um projeto de demonstração simples para CI (Integração Contínua) com **Python + Pytest** usando **GitHub Actions**.  
 O objetivo é mostrar como rodar testes automaticamente sempre que um `push` é feito no repositório.
 
